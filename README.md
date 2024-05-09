@@ -15,10 +15,6 @@ Step 3:
 Execute the C Program for the desired output.
 
 PROGRAM:
-Developed No: SHEETAL.R
-
-Register No: 212223230206
-
 Write a C program that illustrates two processes communicating using shared memory.
 #include <stdio.h>
 #include <sys/ipc.h>
@@ -46,7 +42,9 @@ int main()
 	return 0;
 }
 OUTPUT
-image
+![image](https://github.com/Sheetalshee/Linux-IPC-Shared-memory/assets/144979107/d40f821a-e270-41a9-86f3-e67f74958de9)
+
 
 RESULT:
-The program is executed successfully
+The program is executed successfully.
+
